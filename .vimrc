@@ -19,3 +19,6 @@ set hlsearch
 
 " set encoding to utf-8
 set encoding=utf-8
+
+" set linewrap
+set wrap
